@@ -1,4 +1,4 @@
-# AWS EC@ Instance
+# AWS EC2 Instance
 You can create EC2 instance in company using this module
 
 ## Inputs
